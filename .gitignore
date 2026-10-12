@@ -1,0 +1,32 @@
+# Build artifacts
+*.dll
+*.exp
+*.lib
+*.obj
+*.old
+*.exe
+*.msix
+
+# Archives
+*.zip
+*.rar
+*.aar
+*.apk
+*.aab
+*.ap_
+
+# Logs
+*.log
+
+# Certificates
+*.cer
+
+# Old test archives
+11111111111*
+
+# Build temp dirs
+obj/
+
+# OS files
+.DS_Store
+Thumbs.db
